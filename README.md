@@ -1,7 +1,7 @@
 # Awesome Bioacoustic
 
-Very personal list of scientific references on bioacoustic studies, which is under construction.
-It references mostly machine learning classification and datasets.
+Very personal list of references on bioacoustic, which is under construction.
+It references mostly signal processing and machine learning scientific articles and datasets but also contains media-related post.
 The list is for my academic work but feel free to contribute!
 
 ### Birds
@@ -36,4 +36,5 @@ The list is for my academic work but feel free to contribute!
 
 ### Other useful resources
 
+- [Six Ways Sound Data is Changing Conservation](https://blog.nature.org/science/2018/04/25/six-ways-sound-data-is-changing-conservation/)
 - [Metrics for Polyphonic Sound Event Detection](http://www.mdpi.com/2076-3417/6/6/162)

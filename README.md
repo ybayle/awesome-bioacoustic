@@ -27,6 +27,7 @@ The list is for my academic work but feel free to contribute!
 - [Birdify: le projet d'un Shazam pour les chants d'oiseaux](http://www.huffingtonpost.fr/2013/10/11/birdify-shazam-chants-oiseaux_n_4076487.html#slide=2711042)
 - [A Shazam but for bird calls?](https://twitter.com/MaconBlair/status/866102531717570560)
 - [Stacked Convolutional and Recurrent Neural Networks for Bird Audio Detection](https://arxiv.org/pdf/1706.02047.pdf)
+- [[Code](https://github.com/jaron/deep-listening)][[PDF](https://github.com/jaron/deep-listening/blob/master/ProjectReport.pdf)] Using deep learning to build an audio classifier to recognise birdsong
 
 ### Underwater bioacoustic
 

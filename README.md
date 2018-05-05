@@ -35,6 +35,10 @@ The list is for my academic work but feel free to contribute!
 - [DCLDE from SABIOD](http://sabiod.univ-tln.fr/DCLDE/)
 - [Sound samples from Youtube](https://www.youtube.com/watch?time_continue=45&v=UVy8bgD5Pbg)
 
+### Human medical
+
+- [Lung sounds classification using convolutional neural networks](https://www.sciencedirect.com/science/article/pii/S0933365717302051) (May 2018) - CNN > MFCCs
+
 ### Other useful resources
 
 - [Six Ways Sound Data is Changing Conservation](https://blog.nature.org/science/2018/04/25/six-ways-sound-data-is-changing-conservation/)

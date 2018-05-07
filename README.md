@@ -34,6 +34,11 @@ The list is for my academic work but feel free to contribute!
 - [Extreme diversity in the songs of Spitsbergen's bowhead whales](https://www.researchgate.net/publication/324202381_Extreme_diversity_in_the_songs_of_Spitsbergen%27s_bowhead_whales)
 - [DCLDE from SABIOD](http://sabiod.univ-tln.fr/DCLDE/)
 - [Sound samples from Youtube](https://www.youtube.com/watch?time_continue=45&v=UVy8bgD5Pbg)
+- [Humpback Whale Baby Boom Near Antarctica](https://www.nytimes.com/2018/05/01/science/humpback-whale-antarctica.html) (May 2018) - On why it is important to track whales with bioacoustics 
+- [Click reception in the harbor porpoise (Phocoena phocoena): Effects of electrode and contact transducer location on the auditory brainstem response](https://asa.scitation.org/doi/10.1121/1.5030921) (April 2018)
+- [Unknown beaked whale echolocation signals recorded off eastern New Zealand](https://asa.scitation.org/doi/10.1121/1.5032127) (April 2018)
+- [Song recorded near a super-group of humpback whales on a mid-latitude feeding ground off South Africa ](https://asa.scitation.org/doi/10.1121/1.5032126) (April 2018)
+- [Comparison of passive acoustic soniferous fish monitoring with supervised and unsupervised approaches](https://asa.scitation.org/doi/10.1121/1.5034169) (April 2018)
 
 ### Human medical
 

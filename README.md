@@ -1,6 +1,8 @@
 # Awesome Bioacoustic
 
-Very personal list of references on bioacoustic, which is under construction.
+By [Yann Bayle](http://yannbayle.fr/english/index.php) ([Website](http://yannbayle.fr/english/index.php), [GitHub](https://github.com/ybayle)) from LaBRI ([Website](http://www.labri.fr/), [Twitter](https://twitter.com/labriOfficial/)), Univ. Bordeaux ([Website](https://www.u-bordeaux.fr/), [Twitter](https://twitter.com/univbordeaux)), CNRS ([Website](http://www.cnrs.fr/), [Twitter](https://twitter.com/CNRS)) and SCRIME ([Website](https://scrime.u-bordeaux.fr/)).
+
+Very personal list of references on bioacoustic, which is **under construction**.
 It references mostly signal processing and machine learning scientific articles and datasets but also contains media-related post.
 The list is for my academic work but feel free to contribute!
 

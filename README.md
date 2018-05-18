@@ -6,6 +6,8 @@ The list is for my academic work but feel free to contribute!
 
 ### Birds
 
+- [BirdVox Projet](https://wp.nyu.edu/birdvox)
+- [[PDF](http://www.justinsalamon.com/uploads/4/3/9/4/4394963/salamon_fusinglearning_bioacoustics_icassp2017.pdf)][[Datasets](https://wp.nyu.edu/birdvox/codedata/#datasets)] - Fusing Shallow and Deep Learning for Bioacoustic Bird Species Classification, J. Salamon, J. P. Bello, A. Farnsworth and S. Kelling. ICASSP 2017.
 - [Bird detection in audio: A survey and a challenge](https://arxiv.org/pdf/1608.03417.pdf)
 - Bardeli, R., Wolff, D., Kurth, F., Koch, M., Tauchert, K. H., & Frommolt, K. H. (2010). Detecting  bird  sounds  in  a  complex  acoustic environment and application to bioacoustic monitoring. Pattern Recognition Letters, 31(12), 1524-1534.
 - [[PDF](https://www.researchgate.net/profile/Justin_Salamon/publication/323369757_Birdvox-Full-Night_A_Dataset_And_Benchmark_For_Avian_Flight_Call_Detection/links/5a909cf4aca2721405623123/Birdvox-Full-Night-A-Dataset-And-Benchmark-For-Avian-Flight-Call-Detection.pdf)][[Dataset](https://wp.nyu.edu/birdvox/birdvox-full-night/)] Vincent Lostanlen and Justin Salamon and Andrew Farnsworth and Andrew Farnsworth and Juan Pablo Bello. Birdvox-full-night: A Dataset And Benchmark For Avian Flight Call Detection, ICASSP 2018.
